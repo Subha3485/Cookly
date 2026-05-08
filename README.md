@@ -1,2 +1,2 @@
          # Cookly
-      a smarter way to browse and share recipes
+ a smarter way to browse and share recipes
